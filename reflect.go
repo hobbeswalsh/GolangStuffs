@@ -29,7 +29,7 @@
 // Original version is from: Stephane Bortzmeyer <stephane+grong@bortzmeyer.org>.
 //
 // Adapted to Go (i.e. completely rewritten) by Miek Gieben <miek@miek.nl>.
-package main
+package golangstuffs
 
 import (
 	"database/sql"
